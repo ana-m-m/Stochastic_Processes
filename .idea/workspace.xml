@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d83d2d-00bf-430d-97c0-8afd0e07d4a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/E_harmonic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/Euler01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/harmonic oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/trajectory plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIT 6.002/intro_optimization_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +46,7 @@
       <recent name="C:\Users\amate\PycharmProjects\Stochastic Processes\Week 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.harmonic oscillator">
+  <component name="RunManager" selected="Python.intro_optimization_problem">
     <configuration name="E_harmonic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stochastic Processes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +113,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="intro_optimization_problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stochastic Processes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MIT 6.002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MIT 6.002/intro_optimization_problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sin(x)plot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Stochastic Processes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,35 +179,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trajectoryplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Stochastic Processes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/trajectoryplot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.intro_optimization_problem" />
         <item itemvalue="Python.harmonic oscillator" />
         <item itemvalue="Python.trajectory plot" />
         <item itemvalue="Python.E_harmonic" />
         <item itemvalue="Python.Euler01" />
-        <item itemvalue="Python.trajectoryplot" />
       </list>
     </recent_temporary>
   </component>
@@ -204,12 +200,37 @@
       <workItem from="1620552685305" duration="60000" />
       <workItem from="1620552759014" duration="320000" />
       <workItem from="1620553093553" duration="93000" />
-      <workItem from="1620553211562" duration="5097000" />
+      <workItem from="1620553211562" duration="5979000" />
+      <workItem from="1620738300515" duration="20000" />
+      <workItem from="1622715509248" duration="4909000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1620581086563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620581086563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +247,8 @@
     <SUITE FILE_PATH="coverage/Stochastic_Processes$logplot.coverage" NAME="logplot Coverage Results" MODIFIED="1620553854671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/Stochastic_Processes$graphs_matplotlib.coverage" NAME="sin(x)plot Coverage Results" MODIFIED="1620553833013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Stochastic_Processes$histogramplot.coverage" NAME="histogramplot Coverage Results" MODIFIED="1620554046044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
-    <SUITE FILE_PATH="coverage/Stochastic_Processes$harmonic_oscillator.coverage" NAME="harmonic oscillator Coverage Results" MODIFIED="1620580104367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/Stochastic_Processes$harmonic_oscillator.coverage" NAME="harmonic oscillator Coverage Results" MODIFIED="1622720511197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/Stochastic_Processes$intro_optimization_problem.coverage" NAME="intro_optimization_problem Coverage Results" MODIFIED="1622721104108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIT 6.002" />
     <SUITE FILE_PATH="coverage/Stochastic_Processes$E_harmonic.coverage" NAME="E_harmonic Coverage Results" MODIFIED="1620580355569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/Stochastic_Processes$trajectory_plot.coverage" NAME="trajectory plot Coverage Results" MODIFIED="1620580503318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/Stochastic_Processes$trajectoryplot.coverage" NAME="trajectoryplot Coverage Results" MODIFIED="1620556112921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
