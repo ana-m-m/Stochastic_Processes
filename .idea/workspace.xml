@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d83d2d-00bf-430d-97c0-8afd0e07d4a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MIT 6.002/intro_optimization_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +201,7 @@
       <workItem from="1620553093553" duration="93000" />
       <workItem from="1620553211562" duration="5979000" />
       <workItem from="1620738300515" duration="20000" />
-      <workItem from="1622715509248" duration="4909000" />
+      <workItem from="1622715509248" duration="5862000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1620581086563</created>
@@ -211,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620581086563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intro mit course">
+      <created>1622721592732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622721592732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +236,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="intro mit course" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro mit course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
